@@ -30,9 +30,6 @@ class MyClient(bridge.Bot):
             command_prefix=get_prefix,
             case_insensitive=True,
             strip_after_prefix=True,
-            activity=discord.Activity(
-                type=discord.ActivityType.listening, name=f"/help"
-            ),
             help_command=None,
         )
 
