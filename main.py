@@ -26,5 +26,5 @@ for i in range(2):
 
 
 if __name__ == "__main__":
-    client.run("OTkxODI5MDk0MDM3NzI1MjQ0.GPWW8p.L_jyyOoPFfLOWKddp99kV5ZteznnoC3MdwEcqw")
+    client.run("Token")
 
